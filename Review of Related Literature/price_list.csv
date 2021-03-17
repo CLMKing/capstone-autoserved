@@ -1,0 +1,15 @@
+,Basic Services,Prices [Php],Duration[hour]
+0,Basic Oil Change,2155,1.0
+1,Preventive Maintenance Schedule [varies],0,1.0
+2,Intake / EGR Cleaning,3500,2.0
+3,Engine Decarbonize,2800,1.0
+4,Rotor Reface (On-Car Lathe Machine),2500,2.0
+5,Change of Brake Pads (with Rotor Reface),2500,2.0
+6,Brake Cleaning / Change Brake Shoes,2100,2.0
+7,Brake Fuild Flushing,2650,2.0
+8,Raditor Dialysis,3715,2.0
+9,Automatic Transmission Fluid Dislysis,5750,3.0
+10,Aircon System Cleaning (Non-Pulldown),4800,2.0
+11,Aircon General Cleaning (Dash Pulldown),8500,3.0
+12,Vehicle Diagnosis,1200,0.5
+13,Repairs and Labor-Only Services,1200,1.0
